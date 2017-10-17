@@ -1,0 +1,10 @@
+.container{
+	background-color:aqua;
+}
+.col-sm-4, .col-md-4{
+	border: 1px solid black;
+	height: 15vh;
+}
+nav{
+	background-color: black;
+}
